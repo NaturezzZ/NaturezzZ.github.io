@@ -2,7 +2,7 @@
 layout: default
 title: Utilities
 nav_order: 4
-parent: about
+parent: About
 has_children: true
 permalink: docs/about/utilities
 ---

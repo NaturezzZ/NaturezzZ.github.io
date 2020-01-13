@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search
-parent: about
+parent: About
 nav_order: 7
 ---
 

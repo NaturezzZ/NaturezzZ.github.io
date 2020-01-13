@@ -2,7 +2,7 @@
 layout: default
 title: UI Components
 nav_order: 3
-parent: about
+parent: About
 has_children: true
 permalink: /docs/about/ui-components
 ---

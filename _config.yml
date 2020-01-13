@@ -37,10 +37,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Github":
+  "GitHub":
     - "//github.com/naturezzz"
   "Blog":
-    - "//192.168.0.102:8090"
+    - "//blog.zhengnq.top"
   "Zhihu":
     - "//www.zhihu.com/people/qian-ge-18/"
 

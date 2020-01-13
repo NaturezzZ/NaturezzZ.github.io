@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
-parent: about
+parent: About
 nav_order: 5
 ---
 
