@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #port:    443
-#host:    192.168.0.102
+#host:    zhengnq.top
 title: Naiqian Zheng
 description: This is Naiqian Zheng
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://naturezzz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://zhengnq.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -34,6 +34,7 @@ search_tokenizer_separator: /[\s/]+/
 
 # Enable or disable heading anchors
 heading_anchors: true
+theme: "just-the-docs"
 
 # Aux links for the upper right navigation
 aux_links:
