@@ -4,7 +4,7 @@ title: Utilities
 nav_order: 4
 parent: About
 has_children: true
-permalink: docs/about/utilities
+permalink: /about/utilities/
 ---
 
 # Utilities

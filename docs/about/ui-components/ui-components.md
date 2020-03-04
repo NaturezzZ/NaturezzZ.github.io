@@ -4,7 +4,7 @@ title: UI Components
 nav_order: 3
 parent: About
 has_children: true
-permalink: /docs/about/ui-components
+permalink: /about/ui-components/
 ---
 
 # UI Components
