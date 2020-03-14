@@ -16,7 +16,7 @@ permalink: /
 School of EECS, Peking University
 <I>(北京大学信息科学技术学院)</I><br>
 <br>
-<a href = "mailto:zhengnaiqian@pku.edu.cn" > zhengnaiqian@pku.edu.cn</a> <br>
+<a href = "mailto://zhengnaiqian@pku.edu.cn" > zhengnaiqian@pku.edu.cn</a> <br>
 <a href = "https://github.com/naturezzz"> GitHub</a> / <a href = "http://blog.zhengnq.top"> Blog</a>
 <br>
 </div></td>
