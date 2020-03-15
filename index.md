@@ -8,7 +8,7 @@ permalink: /
 
 
 
-<td><img class="photo_of_me" src="https://raw.githubusercontent.com/NaturezzZ/NaturezzZ.github.io/master/mypic.png" width="180px" style="border: 0px solid black; float:left; margin-right:15px"></td>
+<td><img class="photo_of_me" src="./mypic.jpg" width="180px" style="border: 0px solid black; float:left; margin-right:15px"></td>
 
 <td><div id="Docinfo">
 
