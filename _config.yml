@@ -46,7 +46,7 @@ aux_links:
     - "//www.zhihu.com/people/qian-ge-18/"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 <a href =\"https://github.com/naturezzz\">NaturezzZ </a>"
+footer_content: "Copyright &copy; 2020 <a href =\"https://zhengnq.top\">Naiqian</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

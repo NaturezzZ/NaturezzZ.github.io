@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Project
-nav_order: 3
-description: "My Project"
+title: Projects
+nav_order: 4
+description: "My Projects"
 permalink: /project/
 ---
-# Project
+# Projects
 
 ## Image to Image Translation with Conditional Adversarial Network (2019.12)
 [GitHub](https://github.com/semiwaker/Image-to-Image-Translation-with-Conditional-Adversarial-Network){: .btn }
