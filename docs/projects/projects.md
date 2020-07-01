@@ -3,7 +3,7 @@ layout: default
 title: Projects
 nav_order: 4
 description: "My Projects"
-permalink: /project/
+permalink: /projects/
 ---
 # Projects
 

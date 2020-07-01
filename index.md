@@ -27,5 +27,6 @@ I am an undergraduate student at EECS, Peking University (2018-) and  a former p
 I am studying computer science and just started my research career in network measurement.
 
 ## Activaties
+- [02/2020] Entered Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/)'s lab to research on network.
 - [06/2019] Turing Class 2018.
 - [09/2018] Entered Peking University to study computer science.

@@ -9,6 +9,7 @@ permalink: /honors/
 ### 2020
 
 - Interdisciplinary Contest In Modeling (ICM), **Meritorious Winner**
+- Jiang Zehan Mathematical Constest in Modeling of Peking University, **Second Prize, Ranked 5th**
 
 ### 2019
 
@@ -22,7 +23,7 @@ permalink: /honors/
 
 ### 2017
 
-- Chinese Physics Olympiad, **Gold Medal** (Ranked 33, member of **national training team** for IPhO)
+- Chinese Physics Olympiad, **Gold Medal** (Ranked 33th, member of **national training team** for IPhO)
 - Chinese Physics Olympiad Hebei, **Championship**
 - Pan-Pearl River Delta and Chinese Elite Schools Physics Olympiad, **First Class Golden Award**
 
