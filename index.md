@@ -22,11 +22,12 @@ School of EECS, Peking University
 </div></td>
 
 ## About me
-I am an undergraduate student at EECS, Peking University (2018-) and  a former participant of Physics Olympiad (2015-2018). 
+I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-) and a former participant of Physics Olympiad (2015-2018). 
 
-I am studying computer science and just started my research career in network measurement.
+I am currently advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) and my research interests are Data Center Networking, Cloud Computing and Dataplane Programmability.
 
 ## Activaties
-- [02/2020] Entered Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/)'s lab to research on network.
-- [06/2019] Turing Class 2018.
+- [09/2020] Started Research Intern at [ByteDance Inc.](https://bytedance.com/en/) on networking.
+- [02/2020] Started research on network advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+- [06/2019] Entered Turing Class 2018.
 - [09/2018] Entered Peking University to study computer science.
