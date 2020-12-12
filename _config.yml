@@ -42,11 +42,11 @@ aux_links:
     - "//github.com/naturezzz"
   "Blog":
     - "//blog.zhengnq.top"
-  "Zhihu":
-    - "//www.zhihu.com/people/qian-ge-18/"
+  "LinkedIn":
+    - "//www.linkedin.com/in/naiqian-zheng-05b36b1a5/"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 <a href =\"https://zhengnq.com\">Naiqian</a>"
+footer_content: "Copyright &copy; 2021 <a href =\"https://zhengnq.com\">Naiqian</a><br><a href = \"http://beian.miit.gov.cn/\">京ICP备2020044320号</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

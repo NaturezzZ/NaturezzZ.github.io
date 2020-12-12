@@ -17,7 +17,7 @@ School of EECS, Peking University
 <I>(北京大学信息科学技术学院)</I><br>
 <br>
 <a href = "mailto://zhengnaiqian@pku.edu.cn" > zhengnaiqian@pku.edu.cn</a> <br>
-<a href = "https://github.com/naturezzz"> GitHub</a> / <a href = "https://blog.zhengnq.top"> Blog</a>
+<a href = "https://github.com/naturezzz"> GitHub</a> / <a href = "https://www.linkedin.com/in/naiqian-zheng-05b36b1a5/"> LinkedIn</a>
 <br>
 </div></td>
 
@@ -26,8 +26,21 @@ I am an undergraduate in school of Electronics Engineering and Computer Science 
 
 I am currently advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) and my research interests are Data Center Networking, Cloud Computing and Dataplane Programmability.
 
+## Publications
+- To appear
+
+## Teaching
+- [2020 Fall] <b>TA</b>, Introduction to Computer System (a PKU course based on CMU 15213).
+
+## Services
+- Invited talk on Research Sharing Conference of Turing Class, PKU
+  - Hot Topics in Networks, a Data Center Networking System's Perspective
+
+
 ## Activaties
-- [09/2020] Started Research Intern at [ByteDance Inc.](https://bytedance.com/en/) on networking.
-- [02/2020] Started research on network advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
-- [06/2019] Entered Turing Class 2018.
-- [09/2018] Entered Peking University to study computer science.
+- [12/2020] LightGuardian is accepted by NSDI'21.
+- [11/2020] Give a long talk (Hot Topics in Networks, a Data Center Networking's Perspective) on Research Sharing Conference of Turing Class and serve as committee member.
+- [09/2020] Start Research Intern at [ByteDance Inc.](https://bytedance.com/en/) on networking.
+- [02/2020] Start research on network advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+- [06/2019] Enter Turing Class 2018.
+- [09/2018] Enter Peking University to study computer science.
