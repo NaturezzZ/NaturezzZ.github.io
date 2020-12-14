@@ -8,7 +8,7 @@ permalink: /
 
 
 
-<td><img class="photo_of_me" src="./mypic.jpg" width="180px" style="border: 0px solid black; float:left; margin-right:15px"></td>
+<td><img class="photo_of_me" src="./newpic.jpg" width="180px" style="border: 0px solid black; float:left; margin-right:15px"></td>
 
 <td><div id="Docinfo">
 
@@ -31,6 +31,9 @@ I am currently advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/) an
 
 ## Teaching
 - [2020 Fall] <b>TA</b>, Introduction to Computer System (a PKU course based on CMU 15213).
+
+## Internship
+- [09/2020 - now] **ByteDance Inc.**, computer networking research and development.
 
 ## Services
 - Invited talk on Research Sharing Conference of Turing Class, PKU

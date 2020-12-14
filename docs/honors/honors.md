@@ -5,9 +5,11 @@ nav_order: 3
 description: "Honors"
 permalink: /honors/
 ---
+
 # Honors
 ### 2020
 
+- **John Hopcroft Scholarship** of Turing Class
 - Interdisciplinary Contest In Modeling (ICM), **Meritorious Winner**
 - Jiang Zehan Mathematical Constest in Modeling of Peking University, **Second Prize, Ranked 5th**
 
