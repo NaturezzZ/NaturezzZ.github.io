@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#port:    443
-#host:    zhengnq.top
+#port:    3389
+#host:    0.0.0.0
 title: Naiqian Zheng
 description: This is Naiqian Zheng
 baseurl: "/" # the subpath of your site, e.g. /blog
