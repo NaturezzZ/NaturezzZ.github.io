@@ -37,14 +37,14 @@ I am advised by [Prof. Xin Jin](https://www.cs.jhu.edu/~xinjin/) and [Prof. Tong
 - [09/2020 - 01/2021] **ByteDance Inc.**, computer networking research and development.
 
 ## Services
-- Invited talk on Research Sharing Conference of Turing Class, PKU
+- Invited talk on Research Seminar of Turing Class, PKU
   - Hot Topics in Networks, a Data Center Networking System's Perspective
 
 
 ## Activaties
 - [01/2021] Start research on system advised by [Prof. Xin Jin](https://www.cs.jhu.edu/~xinjin/).
 - [12/2020] LightGuardian is accepted by NSDI'21.
-- [11/2020] Give a long talk (Hot Topics in Networks, a Data Center Networking's Perspective) on Research Sharing Conference of Turing Class and serve as committee member.
+- [11/2020] Give a long talk (Hot Topics in Networks, a Data Center Networking's Perspective) on Research Seminar of Turing Class.
 - [09/2020] Start Research Intern at [ByteDance Inc.](https://bytedance.com/en/) on networking.
 - [02/2020] Start research on network advised by [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 - [06/2019] Enter Turing Class 2018.
