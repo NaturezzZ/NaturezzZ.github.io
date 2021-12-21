@@ -8,6 +8,7 @@ author_profile: true
 ## 2021
 
 - **Huawei Scholarship** of Peking University School of EECS
+- **John Hopcroft Scholarship** of Turing Class
 
 ## 2020
 
