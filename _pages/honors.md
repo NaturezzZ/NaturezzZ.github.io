@@ -5,6 +5,11 @@ permalink: /honors/
 author_profile: true
 ---
 
+## 2022
+
+- **President Scholarship** of Peking University
+- **Top 10 Bachelor Thesis** of Peking University School of EECS
+  
 ## 2021
 
 - **Huawei Scholarship** of Peking University School of EECS
