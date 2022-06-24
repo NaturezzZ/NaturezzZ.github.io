@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate in School of Computer Science, Peking University (2018-) and a former participant of Physics Olympiad (2015-2018). I will pursue my PhD at Peking University from 2022.
+I am an senior undergraduate student in School of Computer Science, Peking University and a former participant of Physics Olympiad (2015-2018). I will pursue my PhD at Peking University from 2022.
 
 I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are System Building, Data Center Networking and Dataplane Programmability.
 
@@ -20,6 +20,7 @@ Publication
 - Meissa: Scalable Network Testing for Programmable Data Planes
   - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
   - **SIGCOMM**, 2022
+  - [To appear]
 
 - LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets
   - Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, **Naiqian Zheng**, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.
@@ -34,6 +35,12 @@ Teaching
 Services
 ======
 - SIGCOMM 2022 Artifact Evaluation Committee
+
+Talks
+======
+- [05/2022] Research Forum of Turing Class, Scalable Network Testing for Programmable Data Planes
+- [05/2022] Research Forum of Turing Class, Panel Discussion about Undergraduate Research
+- [11/2020] Research Forum of Turing Class, Hot Topics in Data Center Networking
   
 Internship
 ======
