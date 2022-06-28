@@ -9,7 +9,7 @@ author_profile: true
 
 - **Presidental Scholarship** of Peking University
 - **Top 10 Bachelor Thesis** of Peking University School of EECS
-- **Weiming Scholar** of Peking Unviersity
+- **PKU Junior Scholar** of Peking Unviersity
   
 ## 2021
 
@@ -32,7 +32,7 @@ author_profile: true
 
 ## Before 2017
 
-- **Gold Medal** (Member of **national training team** for IPhO) of Chinese Physics Olympiad
+- **Gold Medal** of Chinese Physics Olympiad
 - **Ranked 1st** in Chinese Physics Olympiad Hebei Province
 - **First Class Golden Award** of Pan-Pearl River Delta and Chinese Elite Schools Physics Olympiad
 - **Ranked 1st** in High School Entrance Exam

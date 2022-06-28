@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an senior undergraduate student in School of Computer Science, Peking University and a former participant of Physics Olympiad (2015-2018). I will pursue my PhD at Peking University from 2022.
+I received my B.S (Summa Cum Laude) from Turing Class at Peking University in 2022. I will pursue my PhD at Peking University from 2022. I was a participant of Physics Olympiad (2015-2018).
 
 I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are System Building, Data Center Networking and Dataplane Programmability.
 
