@@ -20,12 +20,12 @@ Publication
 - Meissa: Scalable Network Testing for Programmable Data Planes
   - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
   - **SIGCOMM**, 2022
-  - [To appear]
+  - [PDF](./files/SIGCOMM22-Meissa.pdf)
 
 - LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets
   - Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, **Naiqian Zheng**, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.
   - **NSDI**, 2021
-  - [PDF](https://zhengnq.com/files/NSDI21-LightGuardian.pdf)
+  - [PDF](./files/NSDI21-LightGuardian.pdf)
 
 Teaching
 ======
