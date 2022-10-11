@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my B.S. (Summa Cum Laude) from Turing Class at Peking University in 2022. I will pursue my Ph.D. at Peking University from 2022. I was a participant of Physics Olympiad (2015-2018).
+I am a first-year graduate student at Peking University. I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. I was a participant of Physics Olympiad (2015-2018).
 
-I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are System Building, Data Center Networking and Dataplane Programmability.
+I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are networked systems, especially reliability of networked systems.
 
 **Email:** nq[DOT]zheng[AT]pku[DOT]edu[DOT]cn \\
 [GitHub](https://github.com/NaturezzZ)
@@ -20,12 +20,12 @@ Publication
 - Meissa: Scalable Network Testing for Programmable Data Planes
   - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
   - **SIGCOMM**, 2022
-  - [PDF](./files/SIGCOMM22-Meissa.pdf)
+  - [[PDF]](./files/SIGCOMM22-Meissa.pdf) [[Slides]](./files/SIGCOMM22-Meissa-Slides.pdf)
 
 - LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets
   - Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, **Naiqian Zheng**, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.
   - **NSDI**, 2021
-  - [PDF](./files/NSDI21-LightGuardian.pdf)
+  - [[PDF]](./files/NSDI21-LightGuardian.pdf) [[Slides]](./../files/NSDI21-LightGuardian-Slides.pdf)
 
 Teaching
 ======
