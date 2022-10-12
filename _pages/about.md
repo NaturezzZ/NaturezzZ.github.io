@@ -25,7 +25,7 @@ Publication
 - LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets
   - Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, **Naiqian Zheng**, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.
   - **NSDI**, 2021
-  - [[PDF]](./files/NSDI21-LightGuardian.pdf) [[Slides]](./../files/NSDI21-LightGuardian-Slides.pdf)
+  - [[PDF]](./files/NSDI21-LightGuardian.pdf) [[Slides]](./files/NSDI21-LightGuardian-Slides.pdf)
 
 Teaching
 ======
