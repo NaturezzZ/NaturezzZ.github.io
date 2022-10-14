@@ -15,7 +15,7 @@ I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priv
 [GitHub](https://github.com/NaturezzZ)
  / [LinkedIn](https://www.linkedin.com/in/naiqian-zheng-05b36b1a5/)
 
-Publication
+Publications
 ======
 - Meissa: Scalable Network Testing for Programmable Data Planes
   - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
@@ -27,7 +27,7 @@ Publication
   - **NSDI**, 2021
   - [[PDF]](./files/NSDI21-LightGuardian.pdf) [[Slides]](./files/NSDI21-LightGuardian-Slides.pdf)
 
-Teaching
+Teachings
 ======
 - [2020 Fall] **TA**, Introduction to Computer System (a PKU course based on CMU 15213).
 - [2021 Fall] **TA**, Computer Networks (Honor Track).
@@ -42,7 +42,7 @@ Talks
 - [05/2022] Research Forum of Turing Class, Panel Discussion about Undergraduate Research
 - [11/2020] Research Forum of Turing Class, Hot Topics in Data Center Networking
   
-Internship
+Internships
 ======
-- [09/2020 - 01/2021] **ByteDance Inc.**, Researcher of computer network.
-- [06/2021 - Now] **Alibaba Inc.**, Researcher of programmable switch.
+- [06/2021 - Now] **Alibaba Inc.**, Researcher on network reliability.
+- [09/2020 - 01/2021] **ByteDance Inc.**, Researcher on programmable network.
