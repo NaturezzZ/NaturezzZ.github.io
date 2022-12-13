@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a first-year graduate student at Peking University. I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. I was a participant of Physics Olympiad (2015-2018).
 
-I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are networked systems, especially reliability of networked systems.
+I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are networked systems, especially reliability of networked systems.
 
 **Email:** nq[DOT]zheng[AT]pku[DOT]edu[DOT]cn \\
 [GitHub](https://github.com/NaturezzZ)
