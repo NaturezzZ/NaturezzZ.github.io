@@ -17,6 +17,11 @@ I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Li
 
 Publications
 ======
+- Automated Verification of an In-Production DNS Authoritative Engine
+  - **Naiqian Zheng**, Mengqi Liu, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
+  - **SOSP**, 2023
+  - To Appear
+
 - Meissa: Scalable Network Testing for Programmable Data Planes
   - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
   - **SIGCOMM**, 2022
