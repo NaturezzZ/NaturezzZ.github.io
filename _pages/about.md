@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year graduate student at Peking University. I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. I was a participant of Physics Olympiad (2015-2018).
+I am a second-year graduate student at Peking University. I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. I was a participant of Physics Olympiad (2015-2018).
 
-I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) at Alibaba. My research interests are networked systems, especially reliability of networked systems.
+I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). I also have the priviledge of working with [Ennan Zhai](https://ennanzhai.github.io/) and [Mengqi Liu](https://scholar.google.com/citations?user=qIuwu-EAAAAJ) at Alibaba. My research interests are networked systems, especially reliability of networked systems.
 
 **Email:** nq[DOT]zheng[AT]pku[DOT]edu[DOT]cn \\
 [GitHub](https://github.com/NaturezzZ)
@@ -18,8 +18,8 @@ I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Li
 Publications
 ======
 **Automated Verification of an In-Production DNS Authoritative Engine**
-  - Naiqian Zheng, Mengqi Liu, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
-  - SOSP 2023 (to appear)
+  - Naiqian Zheng*, Mengqi Liu*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
+  - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf)
 
 **Meissa: Scalable Network Testing for Programmable Data Planes**
   - Naiqian Zheng, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
@@ -31,11 +31,11 @@ Publications
 
 Teaching
 ======
-[2020 Fall] TA, Introduction to Computer System.
+[2023 Spring] TA, Operating Systems (Honor Track).
 
 [2021 Fall] TA, Computer Networks (Honor Track).
 
-[2023 Spring] TA, Operating Systems (Honor Track).
+[2020 Fall] TA, Introduction to Computer System.
 
 Services
 ======

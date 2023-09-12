@@ -7,28 +7,18 @@ author_profile: true
 
 ## 2022
 
-- **Presidental Scholarship** of Peking University
+- **Presidental Scholarship**
 - **Top 10 Bachelor Thesis** of Peking University School of EECS
-- **PKU Junior Scholar** of Peking Unviersity
+- **PKU Junior Scholar**
   
-## 2021
+## 2018-2021
 
-- **Huawei Scholarship** of Peking University School of EECS
-- **John Hopcroft Scholarship** of Turing Class
-
-## 2020
-
-- **John Hopcroft Scholarship** of Turing Class
+- **Huawei Scholarship**
+- **Chang Fei Scholarship**
+- **John Hopcroft Scholarship** (twice)
+- **Outstanding Freshman Scholarship**
+- **Merit Student**
 - **Meritorious Winner** of Interdisciplinary Contest In Modeling (ICM)
-
-## 2019
-
-- **Merit Student** of Peking University
-- **Chang Fei Scholarship** of Peking University School of EECS
-
-## 2018
-
-- **Outstanding Freshman Scholarship** of Peking University School of EECS
 
 ## Before 2017
 
