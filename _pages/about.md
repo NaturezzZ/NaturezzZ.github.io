@@ -19,7 +19,7 @@ Publications
 ======
 **Automated Verification of an In-Production DNS Authoritative Engine**
   - Naiqian Zheng\*, Mengqi Liu\*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
-  - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf)
+  - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf) [[Slides]](./files/SOSP23-DNSV-Slides.pdf)
 
 **Meissa: Scalable Network Testing for Programmable Data Planes**
   - Naiqian Zheng, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
