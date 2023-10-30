@@ -18,11 +18,11 @@ I am advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Li
 Publications
 ======
 **Automated Verification of an In-Production DNS Authoritative Engine**
-  - Naiqian Zheng\*, Mengqi Liu\*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
+  - **Naiqian Zheng\***, Mengqi Liu\*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
   - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf) [[Slides]](./files/SOSP23-DNSV-Slides.pdf)
 
 **Meissa: Scalable Network Testing for Programmable Data Planes**
-  - Naiqian Zheng, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
+  - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
   - SIGCOMM 2022 [[PDF]](./files/SIGCOMM22-Meissa.pdf) [[Slides]](./files/SIGCOMM22-Meissa-Slides.pdf)
 
 **LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets**
@@ -43,7 +43,10 @@ SIGCOMM 2022 Artifact Evaluation Committee
 
 Talks
 ======
+[10/2023] ACM SOSP, Automated Verification of an In-Production DNS Authoritative Engine
+
 [08/2022] ACM SIGCOMM, Meissa: Scalable Network Testing for Programmable Data Planes
+
   
 Internships
 ======
