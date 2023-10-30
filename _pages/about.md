@@ -47,6 +47,6 @@ Talks
   
 Internships
 ======
-[06/2021 - Now] Alibaba, Researcher on network reliability.
+[06/2021 - 10/2023] Alibaba, Researcher on network reliability.
 
 [09/2020 - 01/2021] ByteDance, Researcher on programmable network.
