@@ -12,7 +12,7 @@ window.onload = function () {
     });
 
     // 使用 Promise.race 竞赛
-    Promise.race([fetch(urlA, { mode: 'no-cors' }), timeoutPromise])
+    Promise.race([fetch(urlA, { mode: 'no-cors', referrerPolicy: 'no-referrer' }), timeoutPromise])
         .then(response => {
             if (response.ok || response.type === 'opaque') {
                 window.location.href = urlA;

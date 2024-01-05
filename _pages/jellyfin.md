@@ -2,7 +2,7 @@
 layout: blank
 title: "Jellyfin"
 permalink: /movie/
-author_profile: true
+author_profile: false
 ---
 
 <html lang="en">
