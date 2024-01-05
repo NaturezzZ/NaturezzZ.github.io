@@ -1,5 +1,5 @@
 window.onload = function () {
-    const urlA_test = "http://lab.zhengnq.com:8096/web/bc8d51405ec040305a87.ico"
+    const url_test = "https://chat.lcpu.dev/favicon.svg"
     const urlA = "http://lab.zhengnq.com:8096/web/index.html";
     const urlB = "http://39.99.250.62:8096/web/index.html";
 
@@ -23,7 +23,7 @@ window.onload = function () {
         }
     };
 
-    testImage.src = urlA_test; // 尝试加载图片
+    testImage.src = url_test; // 尝试加载图片
 
     // 设置超时检测
     setTimeout(function() {
