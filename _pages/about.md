@@ -19,6 +19,10 @@ I was a participant of Physics Olympiad in high school.
 
 Publications
 ======
+**Automatic End-to-End Testing for Service Mesh Traffic Management**
+  - **Naiqian Zheng**, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin
+  - NSDI 2025 (to appear)
+
 **Automated Verification of an In-Production DNS Authoritative Engine**
   - **Naiqian Zheng\***, Mengqi Liu\*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
   - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf) [[Slides]](./files/SOSP23-DNSV-Slides.pdf)
