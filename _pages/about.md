@@ -19,7 +19,7 @@ I was a participant of Physics Olympiad in high school.
 
 Publications
 ======
-**Automatic End-to-End Testing for Service Mesh Traffic Management**
+**MeshTest: End-to-End Testing for Service Mesh Traffic Management**
   - **Naiqian Zheng**, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin
   - NSDI 2025 (to appear)
 
