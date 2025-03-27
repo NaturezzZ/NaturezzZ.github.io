@@ -19,21 +19,29 @@ I was a participant of Physics Olympiad in high school.
 
 Publications
 ======
-**MeshTest: End-to-End Testing for Service Mesh Traffic Management**
-  - **Naiqian Zheng**, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin
-  - NSDI 2025 (to appear)
+<div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">MeshTest: End-to-End Testing for Service Mesh Traffic Management</h3>
+    <em><strong>Naiqian Zheng</strong>, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin</em><br>
+    <strong>NSDI 2025</strong> to appear
+</div>
 
-**Automated Verification of an In-Production DNS Authoritative Engine**
-  - **Naiqian Zheng\***, Mengqi Liu\*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin
-  - SOSP 2023 [[PDF]](./files/SOSP23-DNSV.pdf) [[Slides]](./files/SOSP23-DNSV-Slides.pdf)
+<div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">Automated Verification of an In-Production DNS Authoritative Engine</h3>
+    <em><strong>Naiqian Zheng*</strong>, Mengqi Liu*, Yuxing Xiang, Ennan Zhai, Linjian Song, Dong Li, Feng Han, Nan Wang, Yong Ma, Zhuo Liang, Dennis Cai, Xuanzhe Liu, Xin Jin (*Co-first)</em><br>
+    <strong>SOSP 2023</strong> <a href="./files/SOSP23-DNSV.pdf" style="color: #636363;">[PDF]</a> <a href="./files/SOSP23-DNSV-Slides.pdf" style="color: #636363;">[Slides]</a> <a href="https://www.youtube.com/watch?v=Ya7YOWtdWMQ" style="color: #636363;">[Video]</a>
+</div>
 
-**Meissa: Scalable Network Testing for Programmable Data Planes**
-  - **Naiqian Zheng**, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin
-  - SIGCOMM 2022 [[PDF]](./files/SIGCOMM22-Meissa.pdf) [[Slides]](./files/SIGCOMM22-Meissa-Slides.pdf)
+<div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">Meissa: Scalable Network Testing for Programmable Data Planes</h3>
+    <em><strong>Naiqian Zheng</strong>, Mengqi Liu, Ennan Zhai, Hongqiang Harry Liu, Yifan Li, Kaicheng Yang, Xuanzhe Liu, Xin Jin</em><br>
+    <strong>SIGCOMM 2022</strong> <a href="./files/SIGCOMM22-Meissa.pdf" style="color: #636363;">[PDF]</a> <a href="./files/SIGCOMM22-Meissa-Slides.pdf" style="color: #636363;">[Slides]</a> <a href="https://www.youtube.com/watch?v=TMmq4w4rB_s" style="color: #636363;">[Video]</a>
+</div>
 
-**LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets**
-  - Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, **Naiqian Zheng**, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.
-  - NSDI 2021 [[PDF]](./files/NSDI21-LightGuardian.pdf) [[Slides]](./files/NSDI21-LightGuardian-Slides.pdf)
+<div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets</h3>
+    <em>Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, <strong>Naiqian Zheng</strong>, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.</em><br>
+    <strong>NSDI 2021</strong> <a href="./files/NSDI21-LightGuardian.pdf" style="color: #636363;">[PDF]</a> <a href="./files/NSDI21-LightGuardian-Slides.pdf" style="color: #636363;">[Slides]</a>
+</div>
 
 Teaching
 ======

@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naiqian"
+  name             : "Naiqian Zheng"
   avatar           : "profile.webp"
-  bio              : "Occupy Mars"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "nq[dot]zheng[at]pku[dot]edu[dot]cn"
+  googlescholar    : "https://scholar.google.com/citations?user=6rMwSAoAAAAJ&hl=zh-CN"
+  email            : "nq[dot]zheng[at]pku[dot]edu[dot]cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  strava           : "https://www.strava.com/athletes/naturezzz_zheng"
+  strava           : 
 
 
 # Reading Files
