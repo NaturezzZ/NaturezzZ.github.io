@@ -22,7 +22,7 @@ Publications
 <div style="margin-bottom: 30px;">
     <h3 style="color: #8B0000; font-weight: bold;">MeshTest: End-to-End Testing for Service Mesh Traffic Management</h3>
     <em><strong>Naiqian Zheng</strong>, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin</em><br>
-    <strong>NSDI 2025</strong> to appear
+    <strong>NSDI 2025</strong> <a href="./files/NSDI25-MeshTest.pdf" style="color: #636363;">[PDF]</a>
 </div>
 
 <div style="margin-bottom: 30px;">
