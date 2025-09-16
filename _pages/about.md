@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year graduate student at Peking University advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). 
-I am recently working on system reliability, especially improving the reliability of network systems.
+I am a fourth-year graduate student at Peking University advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). 
+I am recently working on system reliability, especially improving the reliability of AI infrastructures and network systems.
 I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. 
 I was a participant of Physics Olympiad in high school.
 
