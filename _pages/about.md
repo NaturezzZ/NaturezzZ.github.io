@@ -53,10 +53,14 @@ Teaching
 
 Services
 ======
+OSDI/ATC 2025 Artifact Evaluation Committee
+
 SIGCOMM 2022 Artifact Evaluation Committee
 
 Talks
 ======
+[05/2025] USENIX NSDI, MeshTest: End-to-End Testing for Service Mesh Traffic Management
+
 [10/2023] ACM SOSP, Automated Verification of an In-Production DNS Authoritative Engine
 
 [08/2022] ACM SIGCOMM, Meissa: Scalable Network Testing for Programmable Data Planes
@@ -64,6 +68,6 @@ Talks
   
 Internships
 ======
-[06/2021 - 10/2023] Alibaba, Researcher on network reliability.
+[06/2021 - 10/2023] Alibaba, Research intern on network reliability.
 
-[09/2020 - 01/2021] ByteDance, Researcher on programmable network.
+[09/2020 - 01/2021] ByteDance, Research intern on programmable network.
