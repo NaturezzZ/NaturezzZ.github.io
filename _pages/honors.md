@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022-2025
 - **Young Scientists Fund of NSFC (PhD Student Program)**
-- **Top 10 Outstanding Graduate Student in Research** of Peking University School of EECS
+- **Top 10 Outstanding Graduate Student in Research** of Peking University School of CS
 - **Turing Graduate Program Scholarship**
 - **President's Scholarship** of Peking University
 - **Top 10 Bachelor Thesis** of Peking University School of EECS
