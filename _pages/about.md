@@ -38,8 +38,14 @@ Publications
 </div>
 
 <div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">Iceberg: Automated Verification of DNS Authoritative Engines via Just-in-Time Summarization</h3>
+    <em>Yuxing Xiang, Rilin Huang, <strong>Naiqian Zheng</strong>, Xin Jin</em><br>
+    <strong>NSDI 2026</strong> 
+</div>
+
+<div style="margin-bottom: 30px;">
     <h3 style="color: #8B0000; font-weight: bold;">LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets</h3>
-    <em>Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, <strong>Naiqian Zheng</strong>, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang.</em><br>
+    <em>Yikai Zhao, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, <strong>Naiqian Zheng</strong>, Ruixin Wang, Hanbo Wu, Yi Wang, Nicholas Zhang</em><br>
     <strong>NSDI 2021</strong> <a href="./files/NSDI21-LightGuardian.pdf" style="color: #636363;">[PDF]</a> <a href="./files/NSDI21-LightGuardian-Slides.pdf" style="color: #636363;">[Slides]</a>
 </div>
 
@@ -68,6 +74,8 @@ Talks
   
 Internships
 ======
+[11/2025 - Now] ByteDance Seed, Research intern on reliability of AI infrastructures.
+
 [06/2021 - 10/2023] Alibaba, Research intern on network reliability.
 
 [09/2020 - 01/2021] ByteDance, Research intern on programmable network.
