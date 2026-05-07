@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am a fourth-year graduate student at Peking University advised by Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/). 
-I am recently working on system reliability, especially improving the reliability of AI infrastructures and network systems.
+I am recently working on machine learning systems and system reliability, especially improving the reliability of AI infrastructures and network systems.
+I am also working on and learning about infrastructures for agentic AI.
 I received my B.S. (Summa Cum Laude) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm) at Peking University in 2022. 
 I was a participant of Physics Olympiad in high school.
 
@@ -19,6 +20,12 @@ I was a participant of Physics Olympiad in high school.
 
 Publications
 ======
+<div style="margin-bottom: 30px;">
+    <h3 style="color: #8B0000; font-weight: bold;">Finding Service Mesh Bugs with Service Flow-Aware End-to-End Testing</h3>
+    <em><strong>Naiqian Zheng</strong>, Tianshuo Qiao, Xuanzhe Liu, Xin Jin</em><br>
+    <strong>ACM Transactions on Computer Systems 2026</strong> <a href="https://dl.acm.org/doi/epdf/10.1145/3814612" style="color: #636363;">[PDF]</a>
+</div>
+
 <div style="margin-bottom: 30px;">
     <h3 style="color: #8B0000; font-weight: bold;">MeshTest: End-to-End Testing for Service Mesh Traffic Management</h3>
     <em><strong>Naiqian Zheng</strong>, Tiaoshuo Qiao, Xuanzhe Liu, Xin Jin</em><br>
@@ -74,8 +81,8 @@ Talks
   
 Internships
 ======
-[11/2025 - Now] ByteDance Seed, Research intern on reliability of AI infrastructures.
+[11/2025 - Now] ByteDance Seed, Research intern working on agentic AI infrastructure and AI infrastructure reliability.
 
-[06/2021 - 10/2023] Alibaba, Research intern on network reliability.
+[06/2021 - 10/2023] Alibaba, Research intern working on network reliability.
 
-[09/2020 - 01/2021] ByteDance, Research intern on programmable network.
+[09/2020 - 01/2021] ByteDance, Research intern working on programmable network.
